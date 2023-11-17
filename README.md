@@ -1,4 +1,4 @@
-# Horizontal Pod Autoscaler demo: 
+# Sample code for a Horizontal Pod Autoscaler demo
 
 Sample code that creates an app in Kubernetes to be used with an Horizontal Pod Autoscaler.
 
