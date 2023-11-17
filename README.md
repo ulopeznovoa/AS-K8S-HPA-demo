@@ -1,6 +1,8 @@
 # Horizontal Pod Autoscaler demo: 
 
-Sample code that creates an app in Kubernetes. To be used with an Horizontal Pod Autoscaler.
+Sample code that creates an app in Kubernetes to be used with an Horizontal Pod Autoscaler.
+
+Adapted from: [https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/)
 
 Context:
 - Module: Systems Administration
